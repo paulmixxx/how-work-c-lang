@@ -7,7 +7,7 @@ https://ru.wikipedia.org/wiki/Си_(язык_программирования)
 
 ### Исходный код
 
-Передаем инструкции непосредственно процессору или делаем системные вызовы ОС
+Передаем инструкции непосредственно процессору или делаем системные вызовы ОС в виде языковых конструкций или вызова функций и библиотек.
 
 * https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/x64-architecture
 * https://linasm.sourceforge.net/docs/instructions/index.php
