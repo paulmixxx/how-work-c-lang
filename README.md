@@ -86,6 +86,21 @@ file helloworld
 
 Заглянем под капот:
 
+Связь с динамическими библиотеками
+```bash
+ldd a.out
+man libc
+man ld.so
+```
+
+Вызов библиотечных функций
+```bash
+ltrace -f ./a.out
+man puts
+```
+
+Вызов системных функций
+
 ```bash
 strace ./helloworld
 ```
