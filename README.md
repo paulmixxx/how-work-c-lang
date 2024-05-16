@@ -109,6 +109,12 @@ strace bash
 
 CTRL + D
 
+Системные вызовы:
+* [execve (2)](https://www.opennet.ru/cgi-bin/opennet/man.cgi?topic=execve&category=2)
+* [access (2)](https://www.opennet.ru/man.shtml?topic=access&category=2&russian=0)
+* [newfstatat (2)](https://man.archlinux.org/man/newfstatat.2.en)
+* [write (2)](https://www.opennet.ru/man.shtml?topic=write&category=2&russian=0)
+
 
 ## ДЗ
 
