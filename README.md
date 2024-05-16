@@ -14,7 +14,7 @@ https://ru.wikipedia.org/wiki/Си_(язык_программирования)
 * https://www.felixcloutier.com/x86/
 * https://manpages.ubuntu.com/manpages/lunar/ru/man2/syscalls.2.html
 * https://filippo.io/linux-syscall-table/
-* https://gist.github.com/yamnikov-oleg/454f48c3c45b735631f2
+* https://gist.github.com/paulmixxx/e031042117d58c4d8a2f3e66b67178f3
 
 
 ### Компиляция
