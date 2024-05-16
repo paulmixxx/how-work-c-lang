@@ -130,6 +130,7 @@ CTRL + D
 * [newfstatat (2)](https://man.archlinux.org/man/newfstatat.2.en)
 * [write (2)](https://www.opennet.ru/man.shtml?topic=write&category=2&russian=0)
 
+https://www.geeksforgeeks.org/c-hello-world-program/
 
 ## ДЗ
 
