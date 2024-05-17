@@ -9,12 +9,19 @@ https://ru.wikipedia.org/wiki/Си_(язык_программирования)
 
 Передаем инструкции непосредственно процессору или делаем системные вызовы ОС в виде языковых конструкций или вызова функций и библиотек.
 
-* https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/x64-architecture
-* https://linasm.sourceforge.net/docs/instructions/index.php
-* https://www.felixcloutier.com/x86/
+* https://ru.wikipedia.org/wiki/Стандартная_библиотека_языка_Си
+* https://ru.wikipedia.org/wiki/Glibc
+* https://ru.wikipedia.org/wiki/Системный_вызов
 * https://manpages.ubuntu.com/manpages/lunar/ru/man2/syscalls.2.html
 * https://filippo.io/linux-syscall-table/
 * https://gist.github.com/paulmixxx/e031042117d58c4d8a2f3e66b67178f3
+* https://ru.wikipedia.org/wiki/X86
+* https://ru.wikipedia.org/wiki/X86-64
+* https://ru.wikipedia.org/wiki/Расширения_архитектуры_x86
+* https://eax.me/assembler-basics/
+* https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/x64-architecture
+* https://linasm.sourceforge.net/docs/instructions/index.php
+* https://www.felixcloutier.com/x86/
 
 
 ### Компиляция
